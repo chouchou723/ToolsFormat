@@ -1,0 +1,17 @@
+<ul id="nav"> 
+<li><a href="http://www.divcss5.com/">首页</a></li> 
+<li><a href="http://www.divcss5.com/html/">HTML教程</a></li> 
+<li><a href="http://www.divcss5.com/rumen/">CSS基础</a></li> 
+<li><a href="http://www.divcss5.com/css-tool/">CSS开发工具</a></li> 
+<li><a href="http://www.divcss5.com/css-texiao/">CSS特效</a></li> 
+<div>
+<li id="x"><a href="http://www.divcss5.com/wenji/">CSS问题</a></li> 
+
+</div>
+</ul> 
+
+ul#nav{ width:100%; height:60px; background:#00A2CA;margin:0 auto} 
+ul#nav li{display:inline; height:60px} 
+ul#nav li a{display:inline-block; padding:0 20px; height:60px; line-height:60px; 
+color:#FFF; font-family:"\5FAE\8F6F\96C5\9ED1"; font-size:16px} 
+ul#nav li a:hover{background:#0095BB} 
