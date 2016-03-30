@@ -1,0 +1,2 @@
+if(navigator.appName == "Microsoft Internet Explorer" && navigator.appVersion .split(";")[1].replace(/[ ]/g,"")=="MSIE9.0")\
+//判断浏览器名 并且 浏览器版本。
